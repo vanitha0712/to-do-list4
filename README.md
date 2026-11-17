@@ -9,7 +9,7 @@ To create a To-do Application with all features using JavaScript.
 Build the HTML structure (index.html).
 
 ### STEP 2
-Style the App (style.css).
+Style the App (style.css)
 
 ### STEP 3
 Plan the features the To-Do App should have.
